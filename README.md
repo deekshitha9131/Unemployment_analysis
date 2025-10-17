@@ -37,8 +37,7 @@ This repository contains analysis of unemployment data across Indian states from
 - **NumPy**: Numerical computations
 - **Matplotlib**: Data visualization
 - **Seaborn**: Statistical data visualization
-- **Jupyter Notebook**: Interactive analysis environment
-
+  
 ## Data Columns
 - Region: Indian states/regions
 - Date: Monthly timestamps
